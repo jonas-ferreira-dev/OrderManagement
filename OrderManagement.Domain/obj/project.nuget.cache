@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "b4nAfV03HEQXoCQi1D46DCElLhgwKwHRto1MGFtLsXgYjW4wsNPKkFwIS4ANZlK0msAdUgQj5bYpAoWalJ9nJA==",
+  "dgSpecHash": "5yTwqRUskuI=",
   "success": true,
   "projectFilePath": "C:\\Users\\Renata Sodre\\source\\repos\\Order Management\\OrderManagement.Domain\\OrderManagement.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Renata Sodre\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Renata Sodre\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Renata Sodre\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

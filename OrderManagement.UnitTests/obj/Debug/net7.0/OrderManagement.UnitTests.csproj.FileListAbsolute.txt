@@ -94,9 +94,9 @@ C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.UnitTests\ob
 C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.UnitTests\obj\Debug\net7.0\OrderManagement.UnitTests.AssemblyInfoInputs.cache
 C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.UnitTests\obj\Debug\net7.0\OrderManagement.UnitTests.AssemblyInfo.cs
 C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.UnitTests\obj\Debug\net7.0\OrderManagement.UnitTests.csproj.CoreCompileInputs.cache
-C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.UnitTests\obj\Debug\net7.0\OrderManagement.UnitTests.csproj.CopyComplete
 C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.UnitTests\obj\Debug\net7.0\OrderManagement.UnitTests.dll
 C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.UnitTests\obj\Debug\net7.0\refint\OrderManagement.UnitTests.dll
 C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.UnitTests\obj\Debug\net7.0\OrderManagement.UnitTests.pdb
 C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.UnitTests\obj\Debug\net7.0\OrderManagement.UnitTests.genruntimeconfig.cache
 C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.UnitTests\obj\Debug\net7.0\ref\OrderManagement.UnitTests.dll
+C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.UnitTests\obj\Debug\net7.0\OrderMan.D2BAD6AA.Up2Date

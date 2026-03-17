@@ -1023,7 +1023,10 @@
       "xunit.runner.visualstudio/2.4.5": {},
       "OrderManagement.Domain/1.0.0": {
         "runtime": {
-          "OrderManagement.Domain.dll": {}
+          "OrderManagement.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

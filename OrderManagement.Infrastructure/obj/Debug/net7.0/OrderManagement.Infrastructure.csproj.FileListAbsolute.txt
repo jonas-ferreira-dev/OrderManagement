@@ -1,0 +1,17 @@
+C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.Infrastructure\bin\Debug\net7.0\OrderManagement.Infrastructure.deps.json
+C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.Infrastructure\bin\Debug\net7.0\OrderManagement.Infrastructure.dll
+C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.Infrastructure\bin\Debug\net7.0\OrderManagement.Infrastructure.pdb
+C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.Infrastructure\bin\Debug\net7.0\OrderManagement.Application.dll
+C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.Infrastructure\bin\Debug\net7.0\OrderManagement.Domain.dll
+C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.Infrastructure\bin\Debug\net7.0\OrderManagement.Application.pdb
+C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.Infrastructure\bin\Debug\net7.0\OrderManagement.Domain.pdb
+C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.Infrastructure\obj\Debug\net7.0\OrderManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.Infrastructure\obj\Debug\net7.0\OrderManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.Infrastructure\obj\Debug\net7.0\OrderManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.Infrastructure\obj\Debug\net7.0\OrderManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.Infrastructure\obj\Debug\net7.0\OrderManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.Infrastructure\obj\Debug\net7.0\OrderMan.FDF35C14.Up2Date
+C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.Infrastructure\obj\Debug\net7.0\OrderManagement.Infrastructure.dll
+C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.Infrastructure\obj\Debug\net7.0\refint\OrderManagement.Infrastructure.dll
+C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.Infrastructure\obj\Debug\net7.0\OrderManagement.Infrastructure.pdb
+C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.Infrastructure\obj\Debug\net7.0\ref\OrderManagement.Infrastructure.dll
