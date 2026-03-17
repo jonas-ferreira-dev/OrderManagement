@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OrderManagement.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21c022b094927261e45a7210b29cdcf746c9e477")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e8db7d00a3df40587b6ef3baf3483f37a1a9376")]
 [assembly: System.Reflection.AssemblyProductAttribute("OrderManagement.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OrderManagement.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

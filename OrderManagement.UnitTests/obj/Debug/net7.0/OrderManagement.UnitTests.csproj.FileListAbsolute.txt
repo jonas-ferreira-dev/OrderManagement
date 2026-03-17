@@ -100,3 +100,4 @@ C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.UnitTests\ob
 C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.UnitTests\obj\Debug\net7.0\OrderManagement.UnitTests.genruntimeconfig.cache
 C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.UnitTests\obj\Debug\net7.0\ref\OrderManagement.UnitTests.dll
 C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.UnitTests\obj\Debug\net7.0\OrderMan.D2BAD6AA.Up2Date
+C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.UnitTests\obj\Debug\net7.0\OrderManagement.UnitTests.sourcelink.json

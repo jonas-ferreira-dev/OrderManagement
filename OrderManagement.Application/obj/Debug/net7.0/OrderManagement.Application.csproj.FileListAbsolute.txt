@@ -13,3 +13,4 @@ C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.Application\
 C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.Application\obj\Debug\net7.0\refint\OrderManagement.Application.dll
 C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.Application\obj\Debug\net7.0\OrderManagement.Application.pdb
 C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.Application\obj\Debug\net7.0\ref\OrderManagement.Application.dll
+C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.Application\obj\Debug\net7.0\OrderManagement.Application.sourcelink.json

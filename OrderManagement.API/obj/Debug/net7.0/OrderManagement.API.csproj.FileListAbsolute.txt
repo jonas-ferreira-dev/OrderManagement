@@ -37,3 +37,4 @@ C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.API\obj\Debu
 C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.API\obj\Debug\net7.0\OrderManagement.API.pdb
 C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.API\obj\Debug\net7.0\OrderManagement.API.genruntimeconfig.cache
 C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.API\obj\Debug\net7.0\ref\OrderManagement.API.dll
+C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.API\obj\Debug\net7.0\OrderManagement.API.sourcelink.json
