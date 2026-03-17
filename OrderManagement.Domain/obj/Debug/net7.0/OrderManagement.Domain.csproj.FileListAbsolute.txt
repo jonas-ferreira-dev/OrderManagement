@@ -1,0 +1,11 @@
+C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.Domain\bin\Debug\net7.0\OrderManagement.Domain.deps.json
+C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.Domain\bin\Debug\net7.0\OrderManagement.Domain.dll
+C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.Domain\bin\Debug\net7.0\OrderManagement.Domain.pdb
+C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.Domain\obj\Debug\net7.0\OrderManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.Domain\obj\Debug\net7.0\OrderManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.Domain\obj\Debug\net7.0\OrderManagement.Domain.AssemblyInfo.cs
+C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.Domain\obj\Debug\net7.0\OrderManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.Domain\obj\Debug\net7.0\OrderManagement.Domain.dll
+C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.Domain\obj\Debug\net7.0\refint\OrderManagement.Domain.dll
+C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.Domain\obj\Debug\net7.0\OrderManagement.Domain.pdb
+C:\Users\Renata Sodre\source\repos\Order Management\OrderManagement.Domain\obj\Debug\net7.0\ref\OrderManagement.Domain.dll
